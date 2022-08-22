@@ -21,3 +21,36 @@ body {
     padding: 8px;
     border-radius: 5px;
 }
+
+.second-part {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.money {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.donate-money {
+    background-color: rgb(234, 231, 231);
+    height: 100px;
+    width: 125px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+
+#donate-money200 {
+    color: red;
+    background-color: rgb(240, 194, 194);
+    border: 2px solid red;
+    height: 100px;
+    width: 125px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 5px;
+}
