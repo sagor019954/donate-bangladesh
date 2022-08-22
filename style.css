@@ -54,3 +54,11 @@ body {
     padding-top: 5px;
     border-radius: 5px;
 }
+
+input {
+    width: 1000px;
+    border-width: 0 0 2px;
+    border-color: blue;
+    margin-top: 50px;
+    text-align: center;
+}
