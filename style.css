@@ -62,3 +62,25 @@ input {
     margin-top: 50px;
     text-align: center;
 }
+
+.donate-plane {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.plane1 {
+    background-color: rgb(195, 248, 248);
+    height: 250px;
+    width: 350px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#education {
+    background-color: rgba(249, 250, 194, 0.801);
+}
+
+#shelter {
+    background-color: rgb(248, 211, 211);
+}
