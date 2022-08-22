@@ -55,7 +55,7 @@ body {
     border-radius: 5px;
 }
 
-input {
+.inp {
     width: 1000px;
     border-width: 0 0 2px;
     border-color: blue;
@@ -83,4 +83,53 @@ input {
 
 #shelter {
     background-color: rgb(248, 211, 211);
+}
+
+.data-plan {
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer {
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+
+}
+
+.updates {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 170px;
+}
+
+.form {
+    background-color: beige;
+    height: 75px;
+    padding: 100px;
+}
+
+.last-inp {
+    border-width: 0px;
+    width: 450px;
+    height: 40px;
+    background-color: rgb(229, 220, 220);
+
+}
+
+.last-btn {
+    border-width: 0px;
+    height: 45px;
+    width: 250px;
+    color: aliceblue;
+    background-color: orangered;
+    border-radius: 0px 5px 5px 0px;
+}
+
+footer h4 {
+    color: white;
 }
