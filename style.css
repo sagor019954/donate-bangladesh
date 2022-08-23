@@ -30,15 +30,15 @@ body {
 .money {
     display: flex;
     justify-content: space-evenly;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+
 }
 
 .donate-money {
     background-color: rgb(234, 231, 231);
     height: 100px;
-    width: 125px;
+    width: 150px;
     text-align: center;
     padding-top: 5px;
     border-radius: 5px;
@@ -58,15 +58,28 @@ body {
 .inp {
     width: 1000px;
     border-width: 0 0 2px;
-    border-color: blue;
+    border-color: rgb(23, 23, 27);
     margin-top: 50px;
     text-align: center;
 }
 
+.helpline {
+    display: flex;
+    margin-top: 75px;
+}
+
+
+
 .donate-plane {
     display: flex;
-    justify-content: space-evenly;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 50px;
+}
+
+.data-plan {
+    text-align: center;
+    margin-top: 100px;
 }
 
 .plane1 {
@@ -75,6 +88,9 @@ body {
     width: 350px;
     padding: 20px;
     border-radius: 5px;
+    text-align: left;
+    margin-left: 20px;
+
 }
 
 #education {
@@ -85,30 +101,40 @@ body {
     background-color: rgb(248, 211, 211);
 }
 
-.data-plan {
-    text-align: center;
-    margin-top: 100px;
+
+
+
+.helpline-img {
+    width: 200%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
-footer {
-    background-color: black;
-    color: red;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-top: 100px;
+.helpline-img img {
+    width: 60%;
+    margin-left: 150px;
+}
+
+.helping-btn {
+    background-color: red;
+    padding: 10px;
+    width: 200px;
+    border-width: 00px;
+    border-radius: 5px;
+    color: white;
 
 }
+
 
 .updates {
     text-align: center;
     margin-left: 300px;
     margin-right: 300px;
-    margin-top: 170px;
+    margin-top: 100px;
 }
 
 .form {
-    background-color: beige;
+    background-color: rgb(237, 235, 107);
     height: 75px;
     padding: 100px;
 }
@@ -128,6 +154,16 @@ footer {
     color: aliceblue;
     background-color: orangered;
     border-radius: 0px 5px 5px 0px;
+}
+
+footer {
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+
 }
 
 footer h4 {
